@@ -1,0 +1,3 @@
+[pangolin ] in simple5b.txt: 0.65
+[cat dog ] in simple5.txt: 0.74
+[albatross ] not found

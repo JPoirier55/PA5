@@ -1,0 +1,3 @@
+[jake ] in ExCredit2.txt: 0.06
+[program ] in ExCredit4.txt: 0.35
+[howdy ] in ExCredit3.txt: 0.27

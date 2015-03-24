@@ -1,0 +1,9 @@
+digraph program5 {
+"ExCredit1.txt" -> "ExCredit2.txt";
+"ExCredit2.txt" -> "ExCredit3.txt";
+"ExCredit3.txt" -> "ExCredit1.txt"; 
+"ExCredit3.txt" -> "ExCredit4.txt";
+"ExCredit4.txt" -> "ExCredit1.txt"; 
+"ExCredit4.txt" -> "Google.txt";
+
+}

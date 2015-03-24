@@ -1,0 +1,13 @@
+prog5-grapha
+37
+simple5a.txt
+simple5b.txt
+
+
+simple5.txt
+*EOFs*
+
+*STOPs*
+pangolin
+cat dog
+albatross
