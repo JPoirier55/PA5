@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-//Jake Lord and Anna Beckman
+//Jake Lord and Jake Poirier
 // 9/21/14
 public class WebPages {
 
