@@ -8,7 +8,7 @@
  * @date 2010-10-14
  *
  * @param <T>
- * MODIFIED BY JAKE LORD 10/18/14
+ * MODIFIED BY JAKE LORD AND JAKE POIRIER 10/18/14
  */public class Node {
   private Term item;
   private Node next;
